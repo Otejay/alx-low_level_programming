@@ -2,18 +2,13 @@
 #include <stdio.h>
 #include <time.h>
 
-/*
- * main - Serves as the entry point of the program
- *
- * Description: To print the last digit of a number
- *
- * Result: 0 (success)
- */
-
-
-
 /* betty style doc for function main goes there */
-
+/**
+ * main - entry point
+ *
+ *
+ * Return: 0
+ */
 int main(void)
 
 {
