@@ -8,6 +8,7 @@
  * @n: amount of bytes
  *
  * Return: pointer to the allocated memory
+ * or NULL if the function fails
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
