@@ -1,0 +1,1 @@
+A directory containming function aim at exposing the students to user define data types. Here concepts like "strucnd "typedef" is essential as well as a prior knowledge of dynamic memory allocation in c programming.
